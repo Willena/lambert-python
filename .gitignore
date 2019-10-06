@@ -1,0 +1,4 @@
+lambert.egg-info/
+build/
+venv/*
+.idea*
